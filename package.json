@@ -1,7 +1,13 @@
 {
   "name": "nextjs-fullstack-app-template",
+  "author": "Dimitar Bochvarovski",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=16.16.0",
+    "yarn": ">=1.22.19",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
